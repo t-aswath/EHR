@@ -58,10 +58,10 @@ https://github.com/t-aswath/EHR/assets/119417646/d1b93119-199c-4686-a945-cb42a32
 
 ## Team Members
 
-- t-aswath : aswatht.cse2022@citchennai.net
-- rahul m navneeth : rahulmnavneeth@gmail.com
-- naveen : naviprem.2005@gmail.com
-- ravi prasath : raviprasath320@gmail.com
+- T Aswath: aswatht.cse2022@citchennai.net
+- Rahul M Navneeth: rahulmnavneeth@gmail.com
+- Naveen: naviprem.2005@gmail.com
+- Ravi Prasath: raviprasath320@gmail.com
 
 ## Contributing
 We welcome contributions from the community to enhance and improve our EHR solution. Please refer to the contributing guidelines in the respective repositories for more information on how to contribute.
