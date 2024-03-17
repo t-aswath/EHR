@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RahulNavneeth/IIITDM-HACK-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/navi-prem/EHR-backend.git
