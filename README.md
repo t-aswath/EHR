@@ -56,7 +56,11 @@ https://github.com/t-aswath/EHR/assets/119417646/d1b93119-199c-4686-a945-cb42a32
 
 
 
-## Team Members
+## Team Details
+
+**Team Name** : bitspace
+
+**Team Number** : vh166
 
 - T Aswath: aswatht.cse2022@citchennai.net
 - Rahul M Navneeth: rahulmnavneeth@gmail.com
