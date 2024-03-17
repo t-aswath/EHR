@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/navi-prem/EHR-backend.git
+[submodule "EHR-model"]
+	path = EHR-model
+	url = https://github.com/RaviprasathKJ/EHR-model.git
