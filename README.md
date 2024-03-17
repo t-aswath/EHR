@@ -52,6 +52,10 @@ To set up and run the EHR solution locally, follow the instructions provided in 
 ## Demo
 
 
+https://github.com/t-aswath/EHR/assets/119417646/d1b93119-199c-4686-a945-cb42a32bd2d3
+
+
+
 ## Team Members
 
 - t-aswath : aswatht.cse2022@citchennai.net
